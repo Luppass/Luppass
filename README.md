@@ -24,11 +24,8 @@ _Healthy body, healthy mentality_
 
 Check out some of my hands-on work and collaborative projects:
 
-- [devops-repo](https://github.com/Luppass/devops-repo)  
-- [o365](https://github.com/Luppass/o365)  
+- [EvilNoVNC-TLS]([https://github.com/Luppass/devops-repo](https://github.com/Luppass/EvilNoVNC-TLS))  
 - [Dagster-MultiDocker](https://github.com/Luppass/Dagster-MultiDocker)  
-- [Exchange2013-06-09-Log-Cleaning](https://github.com/Luppass/Exchange2013-06-09-Log-Cleaning)  
-- [EvilNoVNC-TLS](https://github.com/Luppass/EvilNoVNC-TLS)  
 
 ---
 
