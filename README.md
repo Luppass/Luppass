@@ -24,7 +24,7 @@ _Healthy body, healthy mentality_
 
 Check out some of my hands-on work and collaborative projects:
 
-- [EvilNoVNC-TLS]([https://github.com/Luppass/devops-repo](https://github.com/Luppass/EvilNoVNC-TLS))  
+- [EvilNoVNC-TLS]([https://github.com/Luppass/devops-repo](https://github.com/Luppass/EvilNoVNC-TLS)  
 - [Dagster-MultiDocker](https://github.com/Luppass/Dagster-MultiDocker)  
 
 ---
