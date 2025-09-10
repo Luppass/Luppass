@@ -1,6 +1,4 @@
-![Luppass's GitHub Banner](https://avatars.githubusercontent.com/u/Luppass?v=4)
-
-# 👋 Hi, I’m Luppass
+# 👋 Hi, I’m Yago!
 
 **TI Consultant | DevOps & Cloud Enthusiast**
 
