@@ -1,16 +1,52 @@
-## Hi there 👋
+![Luppass's GitHub Banner](https://avatars.githubusercontent.com/u/USERNAME?v=4)
 
-<!--
-**Luppass/Luppass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Luppass
 
-Here are some ideas to get you started:
+**TI Consultant | DevOps & Cloud Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌍 **About Me**  
+I'm a hands-on TI consultant with a passion for DevOps, automation, and cloud architecture—especially AWS and GCP. I love building solutions that scale and empower teams to work smarter, not harder.
+
+💡 **Motto:**  
+_Healthy body, healthy mentality_
+
+---
+
+## 🚀 What I Do
+
+- 🛠️ **DevOps in Action:** Real-world AWS & GCP pipelines, automation, and cloud-native infrastructure.
+- ☁️ **Cloud Architecture:** Designing robust, scalable, and secure cloud systems.
+- 🔄 **Continuous Learning:** Always exploring new tech and best practices.
+
+---
+
+## 📂 Featured Repositories
+
+Check out some of my hands-on work and collaborative projects:
+
+- [devops-repo](https://github.com/Luppass/devops-repo)  
+- [o365](https://github.com/Luppass/o365)  
+- [Dagster-MultiDocker](https://github.com/Luppass/Dagster-MultiDocker)  
+- [Exchange2013-06-09-Log-Cleaning](https://github.com/Luppass/Exchange2013-06-09-Log-Cleaning)  
+- [EvilNoVNC-TLS](https://github.com/Luppass/EvilNoVNC-TLS)  
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yagoiglesias/)
+[![GitHub](https://img.shields.io/badge/GitHub-222?logo=github&logoColor=white)](https://github.com/Luppass)
+
+---
+
+## 🏃‍♂️ Beyond Tech
+
+When I’m not building in the cloud, I’m focused on staying active and balanced. I believe a healthy body leads to a healthy mentality—which fuels my creativity and drive in tech!
+
+---
+
+> _“Never stop learning, never stop growing.”_
+
+![Luppass's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luppass&show_icons=true&theme=radical)
