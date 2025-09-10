@@ -1,4 +1,4 @@
-![Luppass's GitHub Banner](https://avatars.githubusercontent.com/u/USERNAME?v=4)
+![Luppass's GitHub Banner](https://avatars.githubusercontent.com/u/Luppass?v=4)
 
 # 👋 Hi, I’m Luppass
 
