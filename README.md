@@ -7,9 +7,6 @@
 🌍 **About Me**  
 I'm a hands-on TI consultant with a passion for DevOps, automation, and cloud architecture—especially AWS and GCP. I love building solutions that scale and empower teams to work smarter, not harder.
 
-💡 **Motto:**  
-_Healthy body, healthy mentality_
-
 ---
 
 ## 🚀 What I Do
