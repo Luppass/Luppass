@@ -33,12 +33,6 @@ Check out some of my hands-on work and collaborative projects:
 
 ---
 
-## 🏃‍♂️ Beyond Tech
-
-When I’m not building in the cloud, I’m focused on staying active and balanced. I believe a healthy body leads to a healthy mentality—which fuels my creativity and drive in tech!
-
----
-
 > _“Never stop learning, never stop growing.”_
 
 ![Luppass's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luppass&show_icons=true&theme=radical)
